@@ -43,6 +43,7 @@ void goSleep() {
 }
 
 int main() {
+    dummyFunction();
     const char* xYz = generatePassword();
     char aBc[256];
 
@@ -52,11 +53,7 @@ int main() {
 
         if (std::strcmp(aBc, xYz) == 0) {
             std::cout << "Congratulations! You've cracked the password.\n";
-
-            dummyFunction();
-
             goSleep();
-
             break;
         }
         else {
