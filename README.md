@@ -18,4 +18,4 @@ This CrackMe (Crack Me If You Can) is a simple console application that challeng
 
 2. Compile source code into exe
 
-3. Decompile exe and use binary patching to get the program to either, think you put in the right password when you did not, or, plain out give you the correct password if you type in an incorrect one. Of course, you could always try both for an added challenge!
+3. Decompile exe using your decompiler of choice (ie. IDA, x32Dbg/x64Dbg, etc), and use binary patching to get the program to either, think you put in the right password when you did not, or, plain out give you the correct password if you type in an incorrect one. Of course, you could always try both for an added challenge!
