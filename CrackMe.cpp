@@ -38,7 +38,7 @@ const char* generatePassword() {
     return password;
 }
 
-void obfuscatedSleep() {
+void goSleep() {
     Sleep(2000);
 }
 
@@ -53,9 +53,9 @@ int main() {
         if (std::strcmp(aBc, xYz) == 0) {
             std::cout << "Congratulations! You've cracked the password.\n";
 
-            dummyFunction(); // Include dummy function calls
+            dummyFunction();
 
-            obfuscatedSleep(); // Use an obfuscated sleep function
+            goSleep();
 
             break;
         }
