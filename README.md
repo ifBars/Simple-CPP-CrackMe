@@ -22,7 +22,7 @@ This CrackMe (Crack Me If You Can) is a simple console application that challeng
 
 ## Getting Started
 
-If you are new to reverse engineering or want to enhance your skills, consider checking out the accompanying YouTube video:
+If you are new to reverse engineering and or binary patching, consider checking out these accompanying YouTube videos:
 
 **YouTube Video Example With This CrackMe:** [Link to Video](https://youtu.be/6YX56bjgs7E)
 
