@@ -19,3 +19,23 @@ This CrackMe (Crack Me If You Can) is a simple console application that challeng
 2. Compile source code into exe
 
 3. Decompile exe using your decompiler of choice (ie. IDA, x32Dbg/x64Dbg, etc), and use binary patching to get the program to either, think you put in the right password when you did not, or, plain out give you the correct password if you type in an incorrect one. Of course, you could always try both for an added challenge!
+
+## Getting Started
+
+If you are new to reverse engineering or want to enhance your skills, consider checking out the accompanying YouTube video:
+
+**YouTube Video Example With This CrackMe:** [Link to Video](https://youtu.be/6YX56bjgs7E)
+
+**Better YouTube Video Example With Different CrackMe:** [Link To Video](https://www.youtube.com/watch?v=Wbm-a-7zc4g)
+
+## Contributing
+
+Feel free to contribute to the project by opening issues, providing feedback, or submitting pull requests. Contributions from the community are always welcome.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to [nang on youtube](https://www.youtube.com/@nang88) for all his reverse engineering videos.
