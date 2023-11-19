@@ -4,7 +4,7 @@ A beginner-friendly CrackMe implemented in C++ for those interested in learning 
 
 ## Overview
 
-This CrackMe (Crack Me If You Can) is a simple console application that challenges users to find the correct password. It serves as a practical introduction to the concepts of reverse engineering, debugging, and decompiling in the realm of C++ programming.
+This CrackMe (Crack Me If You Can) is a simple console application that challenges users to find the correct password through decompiling. It serves as a practical introduction to the concepts of reverse engineering, debugging, and decompiling in the realm of C++ programming.
 
 ## Features
 
