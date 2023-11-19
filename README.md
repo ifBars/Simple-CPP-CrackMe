@@ -1,6 +1,6 @@
 # Simple-CPP-CrackMe
 
-A beginner-friendly CrackMe implemented in C++ for those interested in learning reverse engineering and decompiling. This project is designed to provide a hands-on experience for individuals looking to explore the basics of binary analysis.
+A beginner-friendly CrackMe implemented in C++ for those interested in learning reverse engineering and decompiling. This project is designed to provide a hands-on experience for individuals looking to explore the bare minimum basics of binary analysis.
 
 ## Overview
 
